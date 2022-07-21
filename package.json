@@ -19,10 +19,10 @@
     "web3": "^1.7.0"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts --openssl-legacy-provider test",
-    "eject": "react-scripts --openssl-legacy-provider eject"
+    "start": "react-scripts",
+    "build": "react-scripts",
+    "test": "react-scripts",
+    "eject": "react-scripts"
   },
   "eslintConfig": {
     "extends": [
