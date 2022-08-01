@@ -2,7 +2,7 @@
 
 This is a demo of a ReactJS app that uses the Metamask browser extension and Fastify based REST API to authenticate users by signing a message with nonce received from server and their private key, than server recovers user's address from provided signature and return JWT token to React App. After JWT token is received, React App can interact with servers private endpoints and generate transactions.
 
-Server setup
+Server setup:
 
 1. clone this repository
 2. cd into ./server
